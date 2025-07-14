@@ -1,10 +1,8 @@
 
-title: Jonathan Polk
-email: your.email@example.com
-description: >
-  Political scientist and researcher. This is my academic website.
+title: "Jonathan Polk"
+email: "your.email@example.com"
+description: "Political scientist and researcher. This is my academic website."
 baseurl: "" # leave this empty for jonathanpolk.github.io
 url: "https://jonathanpolk.github.io"
 theme: jekyll-theme-minimal
-
-github_username: jonathanpolk
+github_username: "jonathanpolk"
